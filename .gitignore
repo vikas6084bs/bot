@@ -1,0 +1,9 @@
+_pycache_/
+*.pyc
+.env
+venv/
+*.sqlite3
+*.log
+*.json
+.DS_Store
+chatbot_env/
